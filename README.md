@@ -1,4 +1,4 @@
-<h1 align="left"> Hello, my name is Ethan Jobe<img src="https://media0.giphy.com/media/Y5IJ9mcHoO6AaUj5Pw/giphy.gif?cid=790b76113855221a7d7d7296bdaaa2e81c9fc8a94a1aec8c&rid=giphy.gif&ct" width="100" height="100"/></h1>
+<h1 align="left"> Hello, my name is Ethan Jobe!<img src="https://media0.giphy.com/media/Y5IJ9mcHoO6AaUj5Pw/giphy.gif?cid=790b76113855221a7d7d7296bdaaa2e81c9fc8a94a1aec8c&rid=giphy.gif&ct" width="100" height="100"/></h1>
 
 ### 🟠 CS MAJOR - UTA '23 🔵
 
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-### ⚙ Languages and Tools :
+### ⚙ Languages and Technologies :
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
