@@ -2,7 +2,7 @@
 
 ### 🟠 CS MAJOR - UTA '23 🔵
 
-- I'm currently learning Go!
+- I'm currently learning Go and working with ROS!
 - Open to internship or research opportunities.
 - How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ethan-jobe/)
