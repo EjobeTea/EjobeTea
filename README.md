@@ -2,7 +2,7 @@
 
 ### 🟠 CS MAJOR - UTA '23 🔵
 
-- I'm currently finishing my last semester, as I graduate in May! 
+- Right now I'm finishing my last semester, as I graduate in May! 
 - Currently polishing up my resume and seeking employement.
 - How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ethan-jobe/)
