@@ -1,6 +1,6 @@
 <h1 align="left"> Hello, my name is Ethan Jobe!<img src="https://media0.giphy.com/media/Y5IJ9mcHoO6AaUj5Pw/giphy.gif?cid=790b76113855221a7d7d7296bdaaa2e81c9fc8a94a1aec8c&rid=giphy.gif&ct" width="100" height="100"/></h1>
 
-### 🟠 Software Engineer, Master's Student at UAT (2025) 🔵
+### 🟠 Software Engineer. M.S. in Software Engineering at UTA (Graduation May 2025). 🔵
 
 - How to reach me: 
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ethan-jobe/)
